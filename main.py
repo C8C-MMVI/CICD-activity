@@ -9,8 +9,4 @@ student_name = "Raiven Christian B. Navor"
 student_course = "BS Information Technology"
 student_year = 3
 
-display_student(
-student_name,
-student_course,
-student_year
-)
+display_student(student_name, student_course, student_year)
